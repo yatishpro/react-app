@@ -23,7 +23,7 @@ class App extends Component {
     //Perfect place to make ajax call's to get data form the server
     // this.setState({movies});
     console.log("App - Mounted");
-    //When component mounted that mens component is in the DOM
+    //When component mounted that mens component is in the DOM 
   }
 
   handleDelete = counterId => {
